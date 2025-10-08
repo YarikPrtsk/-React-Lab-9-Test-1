@@ -1,3 +1,5 @@
+# Address Book - React Project
+
 ```mermaid
 graph TD;
     App["App
@@ -37,12 +39,3 @@ graph TD;
 
     %% Visual cues
     AddressTable -->|Renders avatar, firstName, lastName, phone| AddressBook
-
-    ### Використані патерни
-
-- Component Composition  
-- Lifting State Up  
-- Controlled Components  
-- List Rendering Pattern  
-- Conditional Rendering  
-- Separation of Concerns
