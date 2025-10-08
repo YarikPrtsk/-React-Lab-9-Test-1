@@ -1,5 +1,17 @@
 # Address Book - React Project
+#### Patterns
+Component Composition
 
+Lifting State Up
+
+Controlled Components
+
+List Rendering Pattern
+
+Conditional Rendering
+
+Separation of Concerns
+#### Diagram
 ```mermaid
 graph TD;
     App["App
