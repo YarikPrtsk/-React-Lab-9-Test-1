@@ -1,7 +1,3 @@
-# AddressBook Project
-
-## Component Diagram
-
 ```mermaid
 graph TD;
     App["App
@@ -42,11 +38,11 @@ graph TD;
     %% Visual cues
     AddressTable -->|Renders avatar, firstName, lastName, phone| AddressBook
 
+    ### Використані патерни
 
-Використані патерни:
-Component Composition
-Lifting State Up
-Controlled Components
-List Rendering Pattern
-Conditional Rendering
-Separation of Concerns
+- Component Composition  
+- Lifting State Up  
+- Controlled Components  
+- List Rendering Pattern  
+- Conditional Rendering  
+- Separation of Concerns
